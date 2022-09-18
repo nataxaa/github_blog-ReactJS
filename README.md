@@ -2,8 +2,6 @@
   <img alt="sss" title="#delicinha" src=".github/logo.png" width="200px"/>
 </h1>
 
-<<<<<<< HEAD
-
 <h1 align="center">Github Blog</h1>
 
 <p align="center">
