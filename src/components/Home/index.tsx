@@ -37,7 +37,7 @@ export function Home(){
       if(input == ''){
         alert('Escreva algo!')
       }
-      
+       
     }
 
 
