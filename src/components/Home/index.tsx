@@ -37,11 +37,7 @@ export function Home(){
       if(input == ''){
         alert('Escreva algo!')
       }
-      else{
-          if(!item){
-                alert('Repositorio não encontrado!')
-            }
-      }
+      
     }
 
 
